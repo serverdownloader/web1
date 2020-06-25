@@ -1,0 +1,67 @@
+===========================================================================
+========= PORTAL TOKO ONLINE MENGGUNAKAN PHP & MYSQL BY SIBUBBLE ==========
+===========================================================================
+
+menjalankan portal toko online "webRH"
+
+1. Download zip file (https://github.com/h4ckDC6/tokoonline_php-mysql/)
+2. Extract file
+3. Paste di directory(ke xampp xamp/htdocs)
+4. buat database dengan nama webRH
+5. Import webRH.sql file
+6. run the script http://localhost/webRH (login username: webRH ,password: tes)
+7. For admin panel  http://localhost/webRH/admin (login admin username: admin ,password: admin)
+
+Fitur :
+
+$web
+
+>> Kategori
+>> News
+>> Testimonial
+	> isi
+	> lihat
+>> informasi Online
+>> barang paling banyak di kunjungi
+>> pembayaran
+>> simple product
+>> contact
+>> about
+>> dll
+
+$halaman web admin
+
+>> Admin setup
+>> Upload produk
+>> menu Kategori
+	> tambah kategori
+>> News
+>> Laporan
+>> pdf file
+
+Membutuhkan :
+
+>> Localhost
+	>XAMPP
+>> Database mysql (database wes tak gawe tinggal di import wae)
+	> http://localhost/phpmyadmin
+
+mungkin bisa di ubah :
+
+>> Laporan member (admin/laporan_member.php)(admin/laporan_produk.php)
+>> Logo web
+>> gambar header
+>> gambar footer
+>> dll
+
+Harus di tambahkan :
+
+>> Nama pemilik toko
+>> Nomer telepon
+>> Alamat email
+>> Alamat Toko
+>> Nomer Rekening + nama
+
+
+text editor = Visual Code Studio
+localhost = xampp
